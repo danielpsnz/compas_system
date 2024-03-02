@@ -1,2 +1,3 @@
-# compas_system
- This project assesses COMPAS system's integrity, validity, and timeliness. Evaluates specific fields for risk estimates, creates contingency table for recidivism prevention, examines biases in risk assignments by gender and race. Final analysis assesses COMPAS predictive capacity for general crimes vs. violent offenses.
+# Compas System
+
+This project involves loading and analyzing data for the COMPAS system, focusing on integrity, validity, and timeliness. It assesses specific fields for risk estimates, creates a contingency table for preventive measures against recidivism, and examines potential biases in risk assignments by gender and race. The final analysis evaluates the COMPAS system's predictive capacity for general crimes versus violent offenses.
